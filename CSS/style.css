@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@100&display=swap');
+@font-face {
+    font-family: "Oswald" ;
+    src: url("/CSS/fonts/static/Oswald-Bold.ttf");
+    font-weight:500;
+}
+html {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:blueviolet;
+}
+h1 {
+    color:brown;
+    font-size: 45px;
+    text-align:center;
+    text-transform:none;
+}
+p {
+    font-family: 'MuseoModerno', cursive;
+    font-size:24px;
+    text-transform: capitalize;
+    line-height: normal;
+    font-weight: 600;
+    color:rgb(83, 109, 31);
+}
+img {
+    width:350px;
+    margin-top:10px;
+}
