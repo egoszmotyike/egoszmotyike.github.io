@@ -12,10 +12,14 @@ h1 {
     font-size:24px;
     line-height: normal;
     color:rgb(83, 109, 31);
+    margin: 10px 10px;
+    border: solid 1px blue;
+    padding: 10px 10px;
 }
 img {
-    width:350px;
-    margin-top:10px;
+    width:32.1%;
+    margin:10px;
+    box-shadow: grey 10px 10px 20px;
 }
 #bio-header  {
     color: crimson;
